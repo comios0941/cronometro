@@ -1,0 +1,15 @@
+C:\Users\matte\source\repos\cronometro\cronometro\bin\Debug\cronometro.exe
+C:\Users\matte\source\repos\cronometro\cronometro\bin\Debug\cronometro.pdb
+C:\Users\matte\source\repos\cronometro\cronometro\bin\Debug\cronometro.xml
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.vbprojAssemblyReference.cache
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.Form1.resources
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.Resources.resources
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.vbproj.GenerateResource.cache
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.vbproj.CoreCompileInputs.cache
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.exe
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.xml
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.pdb
+C:\Users\matte\source\repos\cronometro\cronometro\bin\Debug\cronometro.exe.manifest
+C:\Users\matte\source\repos\cronometro\cronometro\bin\Debug\cronometro.application
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.exe.manifest
+C:\Users\matte\source\repos\cronometro\cronometro\obj\Debug\cronometro.application

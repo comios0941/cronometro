@@ -1,0 +1,1 @@
+unzip the folder then execute setup.exe
